@@ -122,7 +122,7 @@ There are two build mechanisms supported: autotools and cmake
 
 autotools:
 
-`./autogen.sh && configure && make && sudo make install`
+`./autogen.sh && ./configure && make && sudo make install`
 
 cmake:
 
